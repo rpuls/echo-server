@@ -1,3 +1,4 @@
+server\Log.class
 shared\ProtocolStrings.class
 client\EchoClient.class
 server\EchoServer.class
